@@ -1,2 +1,5 @@
 # LMS-Portofolio
-Porto_LMS
+Customized LMS
+Learning Management System
+
+Role as Full Stack Developer
